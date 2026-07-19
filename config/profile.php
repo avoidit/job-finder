@@ -8,7 +8,7 @@ return [
 
     'name' => 'Heath Landers',
     'title' => 'Full Stack Developer',
-    'contact' => 'Madison, WI · landers.heath@gmail.com · (608) 207-6473',
+    'contact' => 'Madison, WI · landers.heath@gmail.com · (608) 207-6473 · github.com/avoidit/job-finder',
 
     'summary' => 'Full stack developer with 10+ years building production web applications. '
         .'Laravel / PHP / MySQL / JavaScript. End-to-end ownership: schema design → business logic → frontend. '
